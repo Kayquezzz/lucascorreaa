@@ -23,6 +23,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lucascorreaa/lucascorreaa/output/snake.svg" alt="Snake animation" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kayquezzz&theme=react-dark" />
+
 
 ###
